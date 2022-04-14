@@ -48,7 +48,7 @@ At this point you're most likely very interested in learning and working with em
 
 
  * [Modern Embedded systems programming course](https://www.youtube.com/watch?v=e_Mfvat9mAA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) (best embedded playlist ever, it is equivalent to 2 or 3 university courses !)
- * [build systems and Make](https://www.youtube.com/watch?v=rF--wOD4H8I)
+ * build systems like [Make](https://www.youtube.com/watch?v=rF--wOD4H8I) or better: [CMake](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4)
  * [Sober YT channel](https://www.youtube.com/c/JacobSorber) (c programming, Operating systems and embedded) 
  * [Embedded Artistry blog](https://embeddedartistry.com/) (every other resource you need is here)
  * [Embedded.fm podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9tYWtpbmdlbWJlZGRlZHN5c3RlbXMubGlic3luLmNvbS9yc3M?sa=X&ved=0CAMQ4aUDahcKEwjggoCy6JL3AhUAAAAAHQAAAAAQAQ)
