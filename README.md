@@ -23,14 +23,16 @@ In order to go beyond Arduino, you first need to be already good with using the 
 
 * [Levelup Arduino code: External Interrupts](https://www.youtube.com/watch?v=J61_PKyWjxU) 
 
+* [Bootloaders and programmers](https://www.youtube.com/watch?v=dcLeKj00t_I) 
+
 * [Improve your Arduino skills playlist](https://www.youtube.com/watch?v=4L-oet6P_lI&list=PL0K4VDicBzshahIHJGAVyZFCBNHbi1fqF)
 
 * [Arduino BareMetal Playlist](https://www.youtube.com/playlist?list=PLNyfXcjhOAwOF-7S-ZoW2wuQ6Y-4hfjMR)
 
-
 * [Going Beyond Arduino playlist](https://www.youtube.com/watch?v=bEJ7qRkQpOQ&list=PLVT2wB-IEJ0By8e-VMSGATXUQRsErBF-j)
 
 * [Read the datasheet !!!](https://www.youtube.com/watch?v=cXpeTxC3_A4)
+
 * [Preprocessor and Volatile Keyword](https://www.youtube.com/watch?v=5MzilJ2-MGY&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM&index=40)
 
 * [RTOS (real-time operating systems) basics](https://www.youtube.com/watch?v=F321087yYy4&list=PLXyB2ILBXW5FLc7j2hLcX6sAGbmH0JxX8)
